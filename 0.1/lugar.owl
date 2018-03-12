@@ -68,8 +68,8 @@ Esta ontología sufrirá cambios continuados hasta que se consiga un acuerdo suf
         <owl:versionInfo xml:lang="es">Esta es la versión inicial de la ontología que surge del trabajo del grupo de expertos dedicados al área de turismo en el contexto del grupo de AENOR</owl:versionInfo>
         <dc:title xml:lang="es">Vocabulario para la representación de datos sobre lugares de interés turístico, rutas, viajes, etc.</dc:title>
         <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
-        <dcterms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/lugar.html"/>
-        <dcterms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/lugar.owl"/>
+        <dcterms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/lugar-content/0.1/index.html"/>
+        <dcterms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/lugar-content/0.1/lugar.owl"/>
         <vann:preferredNamespaceUri rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/lugar#"/>
         <owl:versionIRI rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/lugar/0.1"/>
     </owl:Ontology>
