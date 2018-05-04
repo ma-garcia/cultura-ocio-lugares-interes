@@ -62,7 +62,7 @@ Reutiliza términos de varios vocabularios y modelos que actualmente se utilizan
 Esta ontología sufrirá cambios continuados hasta que se consiga un acuerdo suficiente sobre los términos que se incluyen en ella. </rdfs:comment>
         <dc:creator>José Luis Cano (Ayuntamiento de Madrid)</dc:creator>
         <dc:identifier>http://vocab.linkeddata.es/datosabiertos/def/turismo/lugar</dc:identifier>
-        <dc:rights>Creative Commons Attribution 4.0 International (CC BY 4.0)</dc:rights>
+        <dc:rights>Creative Commons Attribution 4.0 International (CC BY 4.)</dc:rights>
         <dc:creator>Sonia Castro (red.es)</dc:creator>
         <dc:creator>Oscar Corcho (Ontology Engineering Group - Universidad Politécnica de Madrid, LocaliData)</dc:creator>
         <owl:versionInfo xml:lang="es">Esta es la versión inicial de la ontología que surge del trabajo del grupo de expertos dedicados al área de turismo en el contexto del grupo de AENOR</owl:versionInfo>
