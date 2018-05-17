@@ -10,7 +10,7 @@ Por tanto, se pretende con esto llevar un control de cambios entre versiones.
 ### Lista de cambios:
 * [10/03/2018] Actualización de referencias a las URIs donde se encuentra publicada la última versión y los HTML.
 * [04/05/2018] Aceptado pull request de OnToology para la generación de documentación [[OnToology update #1]](https://github.com/opencitydata/cultura-ocio-lugares-interes/pull/1)
-* [12/05/2018] Generada la documentación como estaba publicada y reorganización de carpetas [[Clean Update #2]](https://github.com/opencitydata/cultura-ocio-lugares-interes/pull/2)
+* [17/05/2018] Generada la documentación como estaba publicada y reorganización de carpetas [[OnToology update #9]](https://github.com/opencitydata/cultura-ocio-lugares-interes/pull/9)
 
 A continuación se muestran también los datos originales obtenidos del grupo de trabajo OjoAlData100, que identificó este vocabulario como uno de los prioritarios.
 
