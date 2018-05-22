@@ -67,6 +67,11 @@ Esta ontología sufrirá cambios continuados hasta que se consiga un acuerdo suf
         <dc:creator>Oscar Corcho (Ontology Engineering Group - Universidad Politécnica de Madrid, LocaliData)</dc:creator>
         <owl:versionInfo xml:lang="es">Esta es la versión inicial de la ontología que surge del trabajo del grupo de expertos dedicados al área de turismo en el contexto del grupo de AENOR</owl:versionInfo>
         <dc:title xml:lang="es">Vocabulario para la representación de datos sobre lugares de interés turístico, rutas, viajes, etc.</dc:title>
+		<dc:description>Vocabulario para la representación de datos de lugares de interés turístico, viajes, rutas, etc., en España
+Este vocabulario ha sido desarrollado en el contexto del grupo sobre Turismo, Cultura y Ocio, y Comercio de AENOR. El estado del vocabulario es todavía muy inicial y sufrirá cambios
+Reutiliza términos de varios vocabularios y modelos que actualmente se utilizan para propósitos similares (y por tanto se irá actualizando de acuerdo con la evolución de estos vocabularios), incluyendo:
+- schema.org
+- geoNames</dc:description>
         <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
         <dcterms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/lugar-content/0.1/index.html"/>
         <dcterms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/lugar-content/0.1/lugar.owl"/>
