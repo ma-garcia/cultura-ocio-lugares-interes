@@ -95,7 +95,7 @@
       "@id" : "http://vocab.linkeddata.es/datosabiertos/def/turismo/lugar#Itinerario"
     },
     "title" : {
-      "@id" : "http://purl.org/dc/elements/1.1/title"
+      "@id" : "http://purl.org/dc/terms/title"
     },
     "type" : {
       "@id" : "http://purl.org/dc/terms/type",
@@ -138,6 +138,9 @@
     "inScheme" : {
       "@id" : "http://www.w3.org/2004/02/skos/core#inScheme",
       "@type" : "@id"
+    },
+    "description" : {
+      "@id" : "http://purl.org/dc/terms/description"
     },
     "tipoAccesibilidad" : {
       "@id" : "http://vocab.linkeddata.es/datosabiertos/def/turismo/lugar#tipoAccesibilidad",
